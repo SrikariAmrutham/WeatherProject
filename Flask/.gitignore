@@ -1,7 +1,0 @@
-# Python and Flask
-venv/
-__pycache__/
-
-# Other
-*.log
-*.env
